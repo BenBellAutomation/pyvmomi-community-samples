@@ -23,7 +23,7 @@ def read(fname):
 
 setup(
     name='pyvmomi-community-samples',
-    version='5.5.0_2014.dev',
+    version='5.5.0',
     description='VMware vSphere Python SDK Community Samples',
     author='VMware, Inc.',
     author_email='hartsocks@vmware.com',
